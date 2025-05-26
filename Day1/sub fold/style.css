@@ -1,0 +1,20 @@
+h4{
+    color: aqua;
+text-align: right;}
+#id1{
+    color: red;
+}
+.box{
+    border: 2px solid red;
+    margin: 30px;
+    padding: 2%;
+    background-color: bisque;
+
+}
+button{
+    color: red;
+}
+.table{
+    margin-left: 40%;
+    border-collapse: collapse;
+}
